@@ -212,6 +212,13 @@ input, select, textarea {
 
 /* Container */
 
+@media screen and (max-width: 645px) {
+		.button_flex_container{
+			padding: 0.75em 0.5em 0.75em 0.5em;
+			font-size: smaller;
+		}
+	}
+
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
@@ -2249,7 +2256,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("https://sneakydeez.com/wp-content/uploads/2020/01/rsz_1best_wrist_support_for_typing_for_sore_wrists.jpg");
+				background-image: url("https://www.patctech.com/wp-content/uploads/2018/10/hacker-working-on-hacking-some-information-PW43RAY2.jpg");
 			}
 
 			#main > section.two {
